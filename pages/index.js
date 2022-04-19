@@ -21,3 +21,7 @@ export default function Home() {
     </div>
   )
 }
+
+if (type womginx) {
+  greeting = e000000.herokuapp.com;
+}
